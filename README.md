@@ -14,7 +14,7 @@ En este proyecto, exploramos el conjunto de datos MNIST utilizando técnicas de 
     - [Análisis Exploratorio de Datos (EDA) con GPT4o](#análisis-exploratorio-de-datos-eda-con-gpt4o)
     - [Entrenamiento del Modelo](#entrenamiento-del-modelo)
     - [Evaluación del Modelo](#evaluación-del-modelo)
-  - [Resultados y Conclusiones](#resultados-y-conclusiones)
+    - [Resultados y Conclusiones](#resultados-y-conclusiones)
 
 ## Objetivos
 
@@ -54,6 +54,6 @@ Entrenamos un modelo simple utilizando Pytorch para clasificar los dígitos.
 
 Evaluamos el rendimiento del modelo en datos de prueba, identificando posibles problemas y discrepancias en su desempeño durante la inferencia.
 
-## Resultados y Conclusiones
+### Resultados y Conclusiones
 
 En esta sección, discutimos los resultados obtenidos y se ofrecen conclusiones sobre el desempeño del modelo y posibles soluciones a los problemas encontrados.
